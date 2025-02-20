@@ -39,7 +39,7 @@
     <img src="./images/OneSocial.png" alt="Logo" width="200" height="150" borderRadius="0" />
   </a>
 
-<h3 align="center">OneSocial</h3>
+<h3 align="center">Authentication UI/UX</h3>
 
   <p align="center">
     Made by: Pierre Mvita
@@ -381,7 +381,7 @@ Project Link: [https://github.com/Pmvita/OneSocial-supabase.git](https://github.
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/Pmvita/OneSocial-supabase/blob/main/LICENSE.txt
+[license-url]: https://github.com/Pmvita/Auth_UI-v3/blob/master/License
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierre-mvita/
 [product-screenshot]: ./images/title.png
