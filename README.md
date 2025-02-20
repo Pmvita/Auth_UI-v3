@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="./images/OneSocial.png" alt="Logo" width="200" height="150" borderRadius="0" />
+    <img src="./assets/logo.png" alt="Logo" width="200" height="150" borderRadius="0" />
   </a>
 
 <h3 align="center">Authentication UI/UX</h3>
@@ -115,7 +115,6 @@ Recent Updates:
 * [![React][React.js]][React-url]
 * [![ReactNative][ReactNative.js]][ReactNative-url]
 * [![Expo][Expo.io]][Expo-url]
-* [![Supabase][Supabase.io]][Supabase-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +142,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Pmvita/OneSocial-supabase.git
+   git clone https://github.com/Pmvita/Auth_UI-v3
    ```
 2. Install Yarn packages
    ```sh
@@ -381,17 +380,13 @@ Project Link: [https://github.com/Pmvita/OneSocial-supabase.git](https://github.
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/Pmvita/Auth_UI-v3/blob/master/License
+[license-url]: https://github.com/Pmvita/Auth_UI-v3/blob/master/License.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierre-mvita/
-[product-screenshot]: ./images/title.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+[product-screenshot]: ./assets/SS-1.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [ReactNative.js]: https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/docs/environment-setup
 [Expo.io]: https://img.shields.io/badge/Expo-555555?style=for-the-badge&logo=expo&logoColor=white
 [Expo-url]: https://docs.expo.dev/guides/overview/#expo-router
-[Supabase.io]: https://img.shields.io/badge/Supabase-00C7B7?style=for-the-badge&logo=supabase&logoColor=white
-[Supabase-url]: https://supabase.io
