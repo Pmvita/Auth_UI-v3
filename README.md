@@ -35,8 +35,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="./assets/logo.png" alt="Logo" width="200" height="150" borderRadius="0" />
+  <a href="https://github.com/Pmvita/Auth_UI-v3">
+    <img src="./assets/logo.png" alt="Logo" width="200" height="200"
+    style="border-radius: 50%"/>
   </a>
 
 <h3 align="center">Authentication UI/UX</h3>
@@ -44,12 +45,12 @@
   <p align="center">
     Made by: Pierre Mvita
     <br />
-    Date: 01/2025
+    Date: 02/2025
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Pmvita/Auth_UI-v3"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Pmvita/Auth_UI-v3">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
