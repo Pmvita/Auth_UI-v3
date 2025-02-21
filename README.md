@@ -47,12 +47,12 @@
     <br />
     Date: 02/2025
     <br />
-    <a href="https://github.com/Pmvita/Auth_UI-v3"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Pmvita/Auth_UI-v3/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Pmvita/Auth_UI-v3">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Pmvita/Auth_UI-v3/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/Pmvita/Auth_UI-v3/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
@@ -88,25 +88,8 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project is a cross-platform Social media, messaging, and crypto wallet app built using React Native and Expo. It features:
-
-- Full authentication system using Supabase
-- Real-time messaging capabilities
-- Integrated crypto wallet functionality
-- Customizable user profiles
-- Dark/Light theme support
-- Animated UI components
-- Cross-platform compatibility (iOS & Android)
-- Accessibility features
-- Push notifications
-
-Recent Updates:
-- Added theme context for dynamic theming
-- Implemented animated feed components
-- Enhanced accessibility with ARIA labels and roles
-- Added profile image handling
-- Improved post interaction UI
-- Added real-time updates for posts and messages
+Authentication UI/UX
+Features a Welcome screen, Sign-In screen, and Sign-Up screen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,17 +133,10 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin github_username/repo_name
+   git remote set-url origin Pmvita/Auth_UI-v3
    git remote -v # confirm the changes
    ```
-4. Configure environment variables:
-   - Create a `.env` file in the root directory
-   - Add your Supabase configuration:
-     ```
-     SUPABASE_URL=your_supabase_url
-     SUPABASE_ANON_KEY=your_anon_key
-     ```
-5. Start the app
+4. Start the app
    ```sh
    yarn start
    ```
@@ -174,61 +150,61 @@ To get a local copy up and running follow these simple example steps.
   <table>
     <tr>
       <td>
-        <img 
-          src="./images/ios-ss1.png" 
-          alt="iOS Welcome Screen" 
-          width="100" 
+        <img
+          src="./assets/SS-1.png"
+          alt="Android Welcome Screen"
+          width="100"
           height="auto"
         />
-        <img 
+        <!-- <img 
           src="./images/and-ss1.png" 
           alt="Android Welcome Screen" 
           width="100" 
           height="auto"
-        />
+        /> -->
       </td>
       <td>
         <img
-          src="./images/ios-ss2.png" 
-          alt="iOS Sign-In Screen" 
+          src="./assets/Login.png"
+          alt="Android Login Screen"
           width="100"
           height="auto"
         />
-        <img
+        <!-- <img
           src="./images/and-ss2.png"
           alt="Android Sign-In Screen" 
           width="100" 
           height="auto"
-        />
+        /> -->
       </td>
       <td>
         <img
-          src="./images/ios-ss3.png"
-          alt="iOS Sign-Up Screen"
+          src="./assets/SignUp.png"
+          alt="Android SignUp Screen"
           width="100"
           height="auto"
         />
-        <img
+        <!-- <img
           src="./images/and-ss3.png"
           alt="Android Sign-Up Screen"
           width="100"
           height="auto"
-        />
+        /> -->
       </td>
       <td>
-        <img src="./images/ios-ss4.png" 
+        <img src="./assets/ForgotPassword.png"
           alt="iOS Forgot Password Screen"
           width="100"
           height="auto"
         />
-        <img src="./images/and-ss4.png" 
+        <!-- <img src="./images/and-ss4.png" 
           alt="Android Forgot Password Screen"
           width="100"
           height="auto"
-        />
+        /> -->
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         <img
           src="./images/ios-ss5.png"
@@ -285,7 +261,7 @@ To get a local copy up and running follow these simple example steps.
           height="auto"
         />
       </td>
-    </tr>
+    </tr>   -->
   </table>
 </div>
 
