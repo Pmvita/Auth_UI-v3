@@ -153,7 +153,7 @@ To get a local copy up and running follow these simple example steps.
         <img
           src="./assets/SS-1.png"
           alt="Android Welcome Screen"
-          width="100"
+          width="150"
           height="auto"
         />
         <!-- <img 
@@ -167,7 +167,7 @@ To get a local copy up and running follow these simple example steps.
         <img
           src="./assets/Login.png"
           alt="Android Login Screen"
-          width="100"
+          width="150"
           height="auto"
         />
         <!-- <img
@@ -181,7 +181,7 @@ To get a local copy up and running follow these simple example steps.
         <img
           src="./assets/SignUp.png"
           alt="Android SignUp Screen"
-          width="100"
+          width="150"
           height="auto"
         />
         <!-- <img
@@ -194,7 +194,7 @@ To get a local copy up and running follow these simple example steps.
       <td>
         <img src="./assets/ForgotPassword.png"
           alt="iOS Forgot Password Screen"
-          width="100"
+          width="150"
           height="auto"
         />
         <!-- <img src="./images/and-ss4.png" 
