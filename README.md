@@ -291,7 +291,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Pierre Mvita - [@twitter_handle](https://twitter.com/twitter_handle) - PeterMvita@hotmail.com
+Pierre Mvita - [@Mxdnxghtsonly](https://twitter.com/twitter_handle) - PeterMvita@hotmail.com
 
 Project Link: [https://github.com/Pmvita/OneSocial-supabase.git](https://github.com/Pmvita/OneSocial-supabase.git)
 
@@ -302,7 +302,6 @@ Project Link: [https://github.com/Pmvita/OneSocial-supabase.git](https://github.
 
 * [React Native Documentation](https://reactnative.dev/)
 * [Expo Documentation](https://docs.expo.dev/)
-* [Supabase Documentation](https://supabase.io/docs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
