@@ -293,8 +293,6 @@ Don't forget to give the project a star! Thanks again!
 
 Pierre Mvita - [@Mxdnxghtsonly](https://twitter.com/Mxdnxghtsonly) - PeterMvita@hotmail.com
 
-Project Link: [Auth_UI-v3](https://github.com/Pmvita/Auth_UI-v3)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
