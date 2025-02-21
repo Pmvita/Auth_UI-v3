@@ -76,7 +76,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -87,7 +86,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This project is a cross-platform Social media, messaging, and crypto wallet app built using React Native and Expo. It features:
 
@@ -294,45 +293,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] **Feature 1**: *Authentication*
-  - Implemented Supabase email and password authentication
-  - Added social authentication options
-  - Secure session management
-- [x] **Feature 2**: *Real-time Database*
-  - Real-time updates for posts and messages
-  - Optimistic UI updates
-  - Offline data persistence
-- [x] **Feature 3**: *Crypto Wallet*
-  - Integrated wallet functionality
-  - Real-time balance updates
-  - Transaction history
-  - Secure storage
-- [x] **Feature 4**: *Notifications*
-  - Push notifications using Expo
-  - In-app notifications
-  - Custom toast notifications
-- [x] **Feature 5**: *Cloud Functions*
-  - Serverless functions for complex operations
-  - Automated tasks and triggers
-- [x] **Feature 6**: *Image Upload*
-  - Profile picture upload and management
-  - Post image handling
-  - Image optimization
-- [x] **UI Features**:
-  - Implemented React Animated components
-  - Added CSS animations & transitions
-  - Created custom loader components
-  - Designed bottom tab navigation
-  - Integrated vector icons
-  - Added theme support
-  - Enhanced accessibility
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
